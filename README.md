@@ -7,7 +7,7 @@
 -   Eu estou aprendendo **Python** e **Javascript** no momento 🌱 
 -   E aprimorando meus conhecimentos em **HTML5** e **CSS3**
 
-Dê uma olhada no meu ["Projeto Currículo"](https://brunagafo.github.io/projeto-curriculo) (em desenvolvimento), usando HTML e CSS.
+Dê uma olhada no meu <a href="https://brunagafo.github.io/projeto-curriculo" target="_blank" >"Projeto Currículo"</a> (em desenvolvimento), usando HTML e CSS.
 
 ##
 
