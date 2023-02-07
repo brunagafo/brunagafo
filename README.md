@@ -5,7 +5,7 @@
 <p>Sou estudante de <b>Análise e desenvolvimento de Sistemas</b> na UP! Eu estou aprendendo <b>Python</b> e <b>Javascript</b> no momento 🌱. Também continuo aprimorando meus conhecimentos em <b>HTML5</b> e <b>CSS3</b>.</p>
 <p align="justify">Minha formação e atuação também como farmacêutica me permitiu desenvolver habilidades em comunicação interpessoal, através do gerenciamento de equipes multidisciplinares e interdependentes, além do atendimento ao cliente e outras responsabilidades da profissão.</p>
 
-Dê uma olhada no meu <a href="https://brunagafo.github.io/projeto-curriculo" target="_blank" >"Projeto Currículo"</a> (em desenvolvimento), usando apenas HTML e CSS (por enquanto!).
+No momento estou trabalhando em um <a href="https://brunagafo.github.io/projeto-curriculo" target="_blank" >"Projeto Currículo"</a> (em desenvolvimento), usando apenas HTML e CSS (por enquanto!).
 
 ##
 
