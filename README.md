@@ -1,10 +1,10 @@
 <h1 align="center">Oi! Eu sou a Bruna ✨</h1>
 <img align="right" alt="avatar" height="270" src="https://raw.githubusercontent.com/brunagafo/projeto-curriculo/main/Imagens/perfil3.png">
  
-<p align="justify" ><i>Sou estudante de <b>Análise e desenvolvimento de Sistemas</b> na UP! Eu estou aprendendo <b>Python</b> e <b>Javascript</b> no momento 🌱. Também continuo aprimorando meus conhecimentos em <b>HTML5</b> e <b>CSS3</b>. Meu objetivo é me tornar uma ótima <b>desenvolvedora front-end</b>, para isso sigo meu cronograma pessoal de aprendizagem e práticas (focado nos meus objetivos!), que me ajudou a expandir minhas habilidades área, tendo começado do 0 como todo mundo.</i></p>
-<p align="justify"><i>Minha formação e atuação como farmacêutica me permitiu desenvolver habilidades em <b>comunicação interpessoal</b>, através do gerenciamento de equipes multidisciplinares e interdependentes, além do <b>atendimento ao cliente</b> e outras responsabilidades da profissão. Também trabalhei com <b>pesquisa</b> na área da saúde, e tive um imenso aprendizado com a construção e publicação de artigos científicos, essa experiência me trouxe muita <b>autonomia</b> para resolver problemas e encontrar as informações muito específicas.</i></p>
+<p align="justify" ><i>Sou estudante de <b>Análise e desenvolvimento de Sistemas</b> na UP! Eu estou aprendendo <b>Python</b> e <b>Javascript</b> no momento 🌱. Também continuo aprimorando meus conhecimentos em <b>HTML5</b> e <b>CSS3</b>. Meu objetivo é me tornar uma ótima <b>desenvolvedora front-end</b>, para isso sigo um cronograma pessoal de aprendizagem e práticas (focado nos meus objetivos!).</i></p>
+<p align="justify"><i>Minha atuação como farmacêutica me permitiu desenvolver uma ótima <b>comunicação interpessoal</b>, gerenciando equipes multidisciplinares e interdependentes, além do <b>atendimento ao cliente</b> e outras responsabilidades. Também trabalhei com <b>pesquisa</b> na saúde, e tive um imenso aprendizado com a construção e publicação de artigos científicos, expandindo minha <b>autonomia</b> para resolver problemas e encontrar dados.</i></p>
 
-No momento estou trabalhando em um <a href="https://brunagafo.github.io/projeto-curriculo" target="_blank" >"Projeto Currículo"</a> (em desenvolvimento totalmente autoral), usando apenas HTML e CSS (por enquanto!).
+No momento estou trabalhando em um <a href="https://brunagafo.github.io/projeto-curriculo" target="_blank" >"Projeto Currículo"</a> (em desenvolvimento autoral, sem cópia de códigos!), usando apenas HTML e CSS (por enquanto).
 
 ##
 
