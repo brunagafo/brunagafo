@@ -21,8 +21,8 @@ No momento estou trabalhando em um <a href="https://brunagafo.github.io/projeto-
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunagafo&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunagafo&show_icons=true&theme=aura_dark)](https://github.com/brunagafo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunagafo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunagafo&show_icons=true&theme=tokyonight)](https://github.com/brunagafo/github-readme-stats)
 
 ##
 
