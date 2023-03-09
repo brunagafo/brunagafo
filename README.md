@@ -8,7 +8,7 @@
 <p><b>Meus repositórios estão visualmente organizados  <a href="https://brunagafo.github.io/" alt="Link para repositórios" target="_blank" >aqui.</b></p>
 
 ##
-
+ 
 <div>
   <a href="mailto:brunagafo@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"             alt="gmail"></a>
   <a href="https://instagram.com/insipda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -22,8 +22,18 @@
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunagafo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunagafo&show_icons=true&theme=tokyonight)](https://github.com/brunagafo/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/brunagafo">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunagafo&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunagafo&theme=tokyonight&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 ##
+
+<div align="center">
+
+  ![Snake animation](https://github.com/brunagafo/brunagafo/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
