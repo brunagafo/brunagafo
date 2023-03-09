@@ -1,12 +1,11 @@
 <h1 align="center">Oi! Eu sou a Bruna ✨</h1>
-<img align="right" alt="avatar" height="270" src="https://raw.githubusercontent.com/brunagafo/projeto-curriculo/main/Imagens/perfil3.png">
+<img align="right" alt="avatar" height="300" src="https://raw.githubusercontent.com/brunagafo/projeto-curriculo/main/Imagens/perfil3.png">
  
-<p align="justify" ><i>Sou estudante de <b>Análise e desenvolvimento de Sistemas</b> na UP! Estou aprendendo <b>Python</b> e <b>Javascript</b> no momento 🌱. Também continuo aprimorando meus conhecimentos em <b>HTML5</b> e <b>CSS3</b>, tenho experiência com o Photoshop e inglês avançado. No caminho de me tornar uma ótima <b>desenvolvedora front-end</b>, sigo um cronograma pessoal de aprendizagem e práticas segundo meus objetivos.</i></p>
-<p align="justify"><i>Pelo meu grande interesse por desenvolvimento web, estou em transição de carreira. Minha atuação anterior como farmacêutica me permitiu desenvolver uma ótima <b>comunicação interpessoal</b>, gerenciar equipes interdependentes, além do <b>atendimento ao cliente</b>. Também trabalhei com <b>pesquisa</b>, construção e publicação de artigos, que expandiram minha <b>autonomia</b> para resolver problemas e encontrar dados.</i></p>
+<p align="justify" ><i>Sou estudante de <b>Análise e desenvolvimento de Sistemas</b> na UP! Estou aprendendo <b>Python</b> e <b>Javascript</b> no momento 🌱. Também continuo aprimorando meus conhecimentos em <b>HTML5</b> e <b>CSS3</b>, tenho experiência com o Photoshop e inglês avançado. No caminho de me tornar uma ótima <b>desenvolvedora front-end</b>, sigo um cronograma pessoal de aprendizagem e práticas segundo meus objetivos. Pelo meu grande interesse por desenvolvimento web, estou em transição de carreira.</i></p>
 
-<p>No momento estou trabalhando em um <a href="https://brunagafo.github.io/projeto-curriculo" alt="Link para Projeto currículo" target="_blank" >"Projeto Currículo"</a> (em desenvolvimento autoral, sem cópia de códigos!), usando apenas HTML e CSS (por enquanto).</p>
+<p><b>No momento estou trabalhando em um <a href="https://brunagafo.github.io/projeto-curriculo" alt="Link para Projeto currículo" target="_blank" >"Projeto Currículo"</a>, usando apenas HTML e CSS (por enquanto).</b></p>
 
-<p>Meus repositórios estão visualmente organizados  <a href="https://brunagafo.github.io/" alt="Link para repositórios" target="_blank" >aqui.</p>
+<p><b>Meus repositórios estão visualmente organizados  <a href="https://brunagafo.github.io/" alt="Link para repositórios" target="_blank" >aqui.</b></p>
 
 ##
 
