@@ -1,7 +1,7 @@
 <h1 align="center">Oi! Eu sou a Bruna ✨</h1>
 <img align="right" alt="avatar" height="300" src="https://raw.githubusercontent.com/brunagafo/projeto-curriculo/main/Imagens/perfil3.png">
  
-<p align="justify" ><i>Sou estudante de <b>Análise e desenvolvimento de Sistemas</b> na UP! Estou aprendendo <b>Python</b> e <b>Javascript</b> no momento 🌱. Também continuo aprimorando meus conhecimentos em <b>HTML5</b> e <b>CSS3</b>, tenho experiência com o Photoshop e inglês avançado. No caminho de me tornar uma ótima <b>desenvolvedora front-end</b>, sigo um cronograma pessoal de aprendizagem e práticas segundo meus objetivos. Pelo meu grande interesse por desenvolvimento web, estou em transição de carreira.</i></p>
+<p align="justify" ><i>Sou estudante de <b>Análise e desenvolvimento de Sistemas</b> na UP! Estou aprendendo <b>Python</b> e <b>Javascript</b> no momento 🌱. Também continuo aprimorando meus conhecimentos em <b>HTML5</b> e <b>CSS3</b>, tenho experiência com o Photoshop e inglês avançado. No caminho de me tornar uma ótima <b>desenvolvedora</b>, sigo um cronograma pessoal de aprendizagem e práticas segundo meus objetivos. Pelo meu grande interesse por desenvolvimento web, estou em transição de carreira.</i></p>
 
 <p><b>No momento estou trabalhando em um <a href="https://brunagafo.github.io/projeto-curriculo" alt="Link para Projeto currículo" target="_blank" >"Projeto Currículo"</a>, usando apenas HTML e CSS (por enquanto).</b></p>
 
