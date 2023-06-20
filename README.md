@@ -1,14 +1,9 @@
 <h1 align="center">Oi! Eu sou a Bruna ✨</h1>
-<img align="right" alt="avatar" height="300" src="https://raw.githubusercontent.com/brunagafo/projeto-curriculo/main/Imagens/perfil3.png">
+<img align="right" alt="avatar" height="300" src="https://raw.githubusercontent.com/brunagafo/projeto-curriculo/main/Imagens/avatar.png">
  
 <p align="justify" >Sou estudante de <b>Análise e desenvolvimento de Sistemas</b> na UP! Estou aprendendo <b>Python</b> e <b>Javascript</b> no momento 🌱. Também continuo aprimorando meus conhecimentos em <b>HTML5</b> e <b>CSS3</b>, tenho experiência com o Photoshop e inglês avançado. No caminho de me tornar uma ótima <b>desenvolvedora</b>, sigo um cronograma pessoal de aprendizagem e práticas segundo meus objetivos. Pelo meu grande interesse por desenvolvimento web, estou em transição de carreira.</p>
 
 <p align="justify" > <i>I'm a <b>Systems Analysis and Development</b> student at UP! I'm currently learning Python and Javascript 🌱. I also continue to improve my knowledge in <b>HTML5</b> and <b>CSS3</b>, I have experience with Photoshop and advanced English. On the way to becoming a great <b>developer</b>, I follow a personal schedule of learning and practicing according to my goals. Because of my great interest in web development, I'm in a career transition.</i></p>
-
-##
-
-<p><b>No momento estou trabalhando em um <a href="https://brunagafo.github.io/projeto-curriculo" alt="Link para Projeto currículo" target="_blank" >"Projeto Currículo"</a>, usando apenas HTML e CSS (por enquanto).</b></p>
-<i><b>I'm currently working on a <a href="https://brunagafo.github.io/projeto-curriculo" alt="Link para Projeto currículo" target="_blank" >"Resume Project"</a>, using only HTML and CSS (for now).<b></i></p>
 
 ##
 
@@ -17,7 +12,6 @@
  
 <div>
   <a href="mailto:brunagafo@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"             alt="gmail"></a>
-  <a href="https://instagram.com/insipda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunagafo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <img align="right" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
