@@ -1,9 +1,9 @@
 <h1 align="center">Oi! Eu sou a Bruna ✨</h1>
-<img align="right" alt="avatar" height="300" src="https://raw.githubusercontent.com/brunagafo/projeto-curriculo/main/Imagens/avatar.png">
+<!--<img align="right" alt="avatar" height="300" src="https://raw.githubusercontent.com/brunagafo/projeto-curriculo/main/Imagens/avatar.png">-->
  
-<p align="justify" >Sou estudante de <b>Análise e desenvolvimento de Sistemas</b> na UP! Estou aprendendo <b>Python</b> e <b>Javascript</b> no momento 🌱. Também continuo aprimorando meus conhecimentos em <b>HTML5</b> e <b>CSS3</b>, tenho experiência com o Photoshop e inglês avançado. No caminho de me tornar uma ótima <b>desenvolvedora</b>, sigo um cronograma pessoal de aprendizagem e práticas segundo meus objetivos. Pelo meu grande interesse por desenvolvimento web, estou em transição de carreira.</p>
+<p align="justify" >Sou estudante de <b>Análise e desenvolvimento de Sistemas</b> na UP! Estou aprendendo <b>C#</b> no momento 🌱. Também continuo aprimorando meus conhecimentos em <b>Javascript</b> e <b>SQL</b>, tenho experiência com o Photoshop e inglês avançado. No caminho de me tornar uma ótima <b>desenvolvedora</b>, sigo um cronograma pessoal de aprendizagem e práticas segundo meus objetivos. Pelo meu grande interesse por desenvolvimento, estou em transição de carreira.</p>
 
-<p align="justify" > <i>I'm a <b>Systems Analysis and Development</b> student at UP! I'm currently learning Python and Javascript 🌱. I also continue to improve my knowledge in <b>HTML5</b> and <b>CSS3</b>, I have experience with Photoshop and advanced English. On the way to becoming a great <b>developer</b>, I follow a personal schedule of learning and practicing according to my goals. Because of my great interest in web development, I'm in a career transition.</i></p>
+<p align="justify" > <i>I'm a <b>Systems Analysis and Development</b> student at UP! I'm currently learning C# 🌱. I also continue to improve my knowledge in <b>Javascript</b> and <b>SQL</b>, I have experience with Photoshop and advanced English. On the way to becoming a great <b>developer</b>, I follow a personal schedule of learning and practicing according to my goals. Because of my great interest in development, I'm in a career transition.</i></p>
 
 ##
 
