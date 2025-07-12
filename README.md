@@ -6,9 +6,6 @@
 <p align="justify" > <i>I am a Systems Analysis and Development student at Universidade Positivo🌱. I currently develop for web in C# with ASP.NET MVC. I have experience with Oracle SQL and Procedural Language, ETL, Javascript, as well as HTML and CSS, and advanced english, I also have experience as a pharmacist, having developed skills in interpersonal communication, working with interdependent teams, and also research and scientific publication, acquiring autonomy to solve problems and seek information.</i></p>
 
 ##
-
-<p><b>Meus repositórios estão visualmente organizados <a href="https://brunagafo.github.io/" alt="Link para repositórios" target="_blank" >aqui.</b></p>
-<p><i><b>My repositories are visually organized <a href="https://brunagafo.github.io/" alt="Link para repositórios" target="_blank" >here.</b></i></p>
  
 <div>
   <a href="mailto:brunagafo@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"             alt="gmail"></a>
